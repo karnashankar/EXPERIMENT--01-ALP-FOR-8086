@@ -17,16 +17,6 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
  ## Running the Emulator :# EXPERIMENT--01-ALP-FOR-8086
 
-Name :Archana k
-
-Roll no :212222240011
-
-Date of experiment :27:02:2024
-
-
-
-
-
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
