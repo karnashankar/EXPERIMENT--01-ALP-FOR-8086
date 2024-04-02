@@ -1,9 +1,9 @@
 # EXPERIMENT 01 ALP FOR 8086
-Name : GOKUL S
+Name : Karna S
 
-Ref no : 212222110011
+Ref no : 212222110017
 
-Date of experiment : 11-03-2024
+Date of experiment : 02-04-2024
 
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
